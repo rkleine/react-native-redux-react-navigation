@@ -1,4 +1,4 @@
-### Introductions
+### Introduction
 This is a React Native base project created with Expo. Has React Navigation and Redux configured. These were the commands that we ran to install the dependencies:
 ```shell
 expo init myapp
