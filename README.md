@@ -11,19 +11,24 @@ After that we configure Redux and React Navigation
 
 ### Steps
 Clone repo
+
 `git clone https://gitlab.com/frontend-seeds/react-native-redux-react-navigation.git APP_NAME`
 
 Install Expo
+
 `npm install -g expo-cli`
 
 Install dependencies
+
 `yarn install`
 
 Start project
+
 `expo start`
 
 ### Optional 
 Remove repo reference
+
 `git remote remove origin`
 
 Edit `app.json` with your app details
